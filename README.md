@@ -10,7 +10,7 @@
 </ul>
 
 ## Deployed live at 
-<a href="https://deepta-das-notes-logger.netlify.app/"> Notes Logger</a>
+<a href="https://cutt.ly/QMQDMTt"> Notes Logger</a>
 
 ### Run the code
 
