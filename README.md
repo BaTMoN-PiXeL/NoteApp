@@ -24,4 +24,4 @@ HTML, CSS , JS, ReactJs, Node ,Express, MongoDB
 <br>
 <br>
 <br>
-<i> By Deepta Kiran Das</i>
+<i> By Nillohit Manna</i>
